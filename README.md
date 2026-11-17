@@ -20,3 +20,11 @@ In fase di apprendimento.
 
 ## Autore
 novyrap3p
+
+## Esercizio Git Pull
+
+Questa modifica è stata effettuata
+direttamente su GitHub.
+
+La scaricherò sul computer
+utilizzando il comando git pull.
